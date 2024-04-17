@@ -13,3 +13,7 @@ app.get('/', (req: Request, res: Response) => {
 })
 
 export default app
+
+// "lint-staged": {
+//     "src/**/*.ts": "npm run lint-prettier"
+//   },
